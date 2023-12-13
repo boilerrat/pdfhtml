@@ -1,4 +1,4 @@
-#PDF to HTML
+# PDF to HTML
 
 A little python app to convert pdf files into an HTML.
 
